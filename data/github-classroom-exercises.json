@@ -1,0 +1,610 @@
+[
+	{
+		"title": "UIB-content-listmania",
+		"invitationLink": "https://classroom.github.com/a/HXVvslgk",
+		"skills": "ul, li, list-style-type",
+		"body": "You basically just have to read instructions and create some lists using `ui`/`li`, etc.",
+		"solutionLink": "https://github.com/DigitalCareerInstitute/UIB-content-listmania/tree/solution",
+		"topicIdCode": "uwMHoZ"
+	},
+	{
+		"title": "UIB-content-HowAboutIDs",
+		"invitationLink": "https://classroom.github.com/a/RsDcGesd",
+		"skills": "id, class",
+		"body": "This is a short exercise to practice using `id` and `class`.",
+		"solutionLink": "https://github.com/DigitalCareerInstitute/UIB-content-HowAboutIDs/tree/solution",
+		"topicIdCode": "uwMHoZ"
+	},
+	{
+		"title": "UIB-content-linking",
+		"invitationLink": "https://classroom.github.com/a/8ajNfXIA",
+		"skills": "section, h2, p, a",
+		"body": "You just need to add some links and styling.",
+		"solutionLink": "https://github.com/DigitalCareerInstitute/UIB-content-linking/tree/solution",
+		"topicIdCode": "r5Abra"
+	},
+	{
+		"title": "UIB-content-ToC",
+		"invitationLink": "https://classroom.github.com/a/Abx27Osc",
+		"skills": "ids, ol, nested list, links",
+		"body": "This is an exercise in creating internal links on an HTML page, e.g. a menu at top which links to sections lower on the page where there are \"Back to top\" links which bring the user back to the top.",
+		"solutionLink": "https://github.com/DigitalCareerInstitute/UIB-content-ToC/tree/solution",
+		"topicIdCode": "r5Abra"
+	},
+	{
+		"title": "UIB-content-the-sweet-spot",
+		"invitationLink": "https://classroom.github.com/a/oWYL9yES",
+		"skills": "HTML Boilerplate, css, a",
+		"body": "This is an exercise in using pseudo classes such as `:hover`, `:active` and `:visited`",
+		"solutionLink": "https://github.com/DigitalCareerInstitute/UIB-content-the-sweet-spot/tree/solution",
+		"topicIdCode": "TlUlXy"
+	},
+	{
+		"title": "UIB-content-units-change",
+		"invitationLink": "https://classroom.github.com/a/zil7rtf2",
+		"skills": "css units: em, rem, %",
+		"body": "You have to use various CSS units in order to style a page to exact proportions.",
+		"solutionLink": "https://github.com/DigitalCareerInstitute/UIB-content-units-change/tree/solution",
+		"topicIdCode": "pVCMpM"
+	},
+	{
+		"title": "UIB-content-build-a-blog",
+		"invitationLink": "https://classroom.github.com/a/NBQnFZMm",
+		"skills": "create pages, links between pages, images, text",
+		"body": "You have to build a HTML/CSS site that has blog entry previews which link to the full blog entries, and then return to the main blog menu page.",
+		"solutionLink": "https://github.com/DigitalCareerInstitute/UIB-content-build-a-blog/tree/solution",
+		"topicIdCode": "DDeUrA"
+	},
+	{
+		"title": "UIB-content-lemon-drizzle",
+		"invitationLink": "https://classroom.github.com/a/XTUJTxws",
+		"skills": "favicon, document title, :hover, _base",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-content-publicist",
+		"invitationLink": "https://classroom.github.com/a/phXBC4Bl",
+		"skills": "ul, a, list styling, img",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-box-model-make-it-accessible",
+		"invitationLink": "https://classroom.github.com/a/0-xpk2ME",
+		"skills": "accessibility, semantic HTML",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-boilerplate-head",
+		"invitationLink": "https://classroom.github.com/a/PJe-Z5gc",
+		"skills": "HTML head",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-box-model-notification-popup",
+		"invitationLink": "https://classroom.github.com/a/APkNUW-P",
+		"skills": "notification popup, img",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-box-model-navigation-and-footer",
+		"invitationLink": "https://classroom.github.com/a/7PaEH4Zr",
+		"skills": "navigation, color, icon, header, footer",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-box-model-gradient-hero",
+		"invitationLink": "https://classroom.github.com/a/4nDF1V8q",
+		"skills": "CSS gradients",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-box-model-tribute-page",
+		"invitationLink": "https://classroom.github.com/a/A68Fk3aS",
+		"skills": "semantic HTML, list, img, anchor tag, padding, margin, width and height",
+		"body": "You basically just have to build a page base on instructions to make it look like the sample, including adding an image, setting margin and paddings, etc.",
+		"solutionLink": "https://github.com/DigitalCareerInstitute/UIB-box-model-tribute-page/tree/solution",
+		"topicIdCode": "DDeUrA"
+	},
+	{
+		"title": "UIB-box-model-stairway-to-heaven",
+		"invitationLink": "https://classroom.github.com/a/a67Ro-Oz",
+		"skills": "width, height, background-color, margin, box-sizing",
+		"body": "You have to be creative with width, height, background-color, margin and box-sizing in order to find the solution to create the pictured designs.",
+		"solutionLink": "https://github.com/DigitalCareerInstitute/UIB-box-model-stairway-to-heaven/tree/solution",
+		"topicIdCode": "DDeUrA"
+	},
+	{
+		"title": "UIB-boxmodel-containing",
+		"invitationLink": "https://classroom.github.com/a/7ssCoC23",
+		"skills": "img and container styling",
+		"body": "You have to style an image so that it acts like a hero section of a website, covering the entire viewport, then the user scrolls down to see text.",
+		"solutionLink": "https://github.com/DigitalCareerInstitute/UIB-boxmodel-containing/tree/solution",
+		"topicIdCode": "DDeUrA"
+	},
+	{
+		"title": "UIB-boxmodel-flow",
+		"invitationLink": "https://classroom.github.com/a/Nt3RSLA_",
+		"skills": "width and height in container",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-UI-UX-glassmorphic-profile-card",
+		"invitationLink": "https://classroom.github.com/a/nUBQHKDf",
+		"skills": "glassmorphism, font awesome, box-shadow, backdrop-filter",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-UI-UX-Elevation",
+		"invitationLink": "https://classroom.github.com/a/H1JZwUfi",
+		"skills": "3D, card, gradient",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-UI-UX-NoNamePeople-Page",
+		"invitationLink": "https://classroom.github.com/a/QdoD3X6-",
+		"skills": "img, ul",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-UI-UX-the-sweet-spot-v4",
+		"invitationLink": "https://classroom.github.com/a/sQXdwffy",
+		"skills": "CSS units, icons, text-shadow",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-typography-fontawesome",
+		"invitationLink": "https://classroom.github.com/a/Uh3QoWS6",
+		"skills": "font awesome",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-typography-textstyling",
+		"invitationLink": "https://classroom.github.com/a/XMDDgvlq",
+		"skills": "font-family, text color, font-weight, font-style",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-typography-text",
+		"invitationLink": "https://classroom.github.com/a/TaXu_02Q",
+		"skills": "HTML, font-weight, shadow, italic, uppercase in CSS, strike, rotate image, border, gradients",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-typography-inline",
+		"invitationLink": "https://classroom.github.com/a/kaYmT9hX",
+		"skills": "semantic HTML, no CSS",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "uib-content-cascade",
+		"invitationLink": "https://classroom.github.com/a/1AZe--EH",
+		"skills": "specificity, inheritance",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-data-validated",
+		"invitationLink": "https://classroom.github.com/a/ubRHEMKJ",
+		"skills": "data, contact form, width",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-data-swagger",
+		"invitationLink": "https://classroom.github.com/a/F6Lwv7ac",
+		"skills": "data, contact form",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-data-transparent-login",
+		"invitationLink": "https://classroom.github.com/a/25phPRfz",
+		"skills": "data, contact form, font-awesome",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-data-stylingforms",
+		"invitationLink": "https://classroom.github.com/a/ztK8uSkX",
+		"skills": "data",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-data-form",
+		"invitationLink": "https://classroom.github.com/a/rkXnm8ST",
+		"skills": "data, contact form",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-data-chessboard",
+		"invitationLink": "https://classroom.github.com/a/4ZnjXo9X",
+		"skills": "data",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-data-tablestripes",
+		"invitationLink": "https://classroom.github.com/a/3vobRT_N",
+		"skills": "data, css pseudo-classes",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-data-table_contact",
+		"invitationLink": "https://classroom.github.com/a/1jKrKQab",
+		"skills": "data, pseudo-classes, table",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-data-table_companies",
+		"invitationLink": "https://classroom.github.com/a/Iu1fOKTw",
+		"skills": "data, table",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-Responsiveness-about-being-different",
+		"invitationLink": "https://classroom.github.com/a/b80NwyPt",
+		"skills": "responsiveness",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-data-responsiveNavigation",
+		"invitationLink": "https://classroom.github.com/a/hwvotCNp",
+		"skills": "responsiveness, pseudo-class :checked",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-responsiveness-mediaqueries",
+		"invitationLink": "https://classroom.github.com/a/wOGChsG4",
+		"skills": "responsiveness, border color",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-responsiveness-mediaqueries2",
+		"invitationLink": "https://classroom.github.com/a/tDaXKn9d",
+		"skills": "responsiveness, font, font-family",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-customer-satisfaction-dashboard",
+		"invitationLink": "https://classroom.github.com/a/vTmARWdZ",
+		"skills": "layout, table",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-freelance-position",
+		"invitationLink": "https://classroom.github.com/a/NkOIngze",
+		"skills": "layout, pseudo-element, display: flex",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-zoom-session",
+		"invitationLink": "https://classroom.github.com/a/_vkY6asF",
+		"skills": "layout, flexbox, grid, possition, font-awesome",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-fixed-vanishing-header",
+		"invitationLink": "https://classroom.github.com/a/On7ZqNhq",
+		"skills": "layout, possitioning",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-grid-meets-flexbox",
+		"invitationLink": "https://classroom.github.com/a/zguAOwXl",
+		"skills": "layout, grid",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-grid-document-layout",
+		"invitationLink": "https://classroom.github.com/a/8y1Qs0ln",
+		"skills": "layout, grid",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-grid-blogger",
+		"invitationLink": "https://classroom.github.com/a/t6PrjFPK",
+		"skills": "layout, grid",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-grid",
+		"invitationLink": "https://classroom.github.com/a/2HD_sQ3e",
+		"skills": "layout, grid",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-grid-design-studio",
+		"invitationLink": "https://classroom.github.com/a/iEuD6Ni6",
+		"skills": "layout, grid, flexbox",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-grid-and-flexbox-harmony",
+		"invitationLink": "https://classroom.github.com/a/3Z2yuKTX",
+		"skills": "layout, grid",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-grid-parent",
+		"invitationLink": "https://classroom.github.com/a/j6RXoWRI",
+		"skills": "layout, flexbox, possition",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-speaker-shop",
+		"invitationLink": "https://classroom.github.com/a/as5pzCnB",
+		"skills": "layout, flexbox, grid",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-travel-destination-form",
+		"invitationLink": "https://classroom.github.com/a/D6u-fZpf",
+		"skills": "layout, flexbox, grid",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB_layout_laying_out_fullpage",
+		"invitationLink": "https://classroom.github.com/a/jpM4_e_7",
+		"skills": "layout, flexbox, grid",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-sweety-layout",
+		"invitationLink": "https://classroom.github.com/a/xDRVqVwF",
+		"skills": "layout, flexbox, grid",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-flexseven",
+		"invitationLink": "https://classroom.github.com/a/1G1Y9nbb",
+		"skills": "layout, flexbox",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB_layout_out_of_ordinary",
+		"invitationLink": "https://classroom.github.com/a/dDrlmo96",
+		"skills": "layout, flexbox",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-neumorphic-music-player",
+		"invitationLink": "https://classroom.github.com/a/lYbB2--U",
+		"skills": "layout, font-awesome, google fonts",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-magazine-landing-page",
+		"invitationLink": "https://classroom.github.com/a/KipRd-_h",
+		"skills": "layout, flexbox, possition, google fonts, font-awesome",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-warp-club",
+		"invitationLink": "https://classroom.github.com/a/JugmwZg5",
+		"skills": "layout, google fonts",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-flex",
+		"invitationLink": "https://classroom.github.com/a/n25SDNo3",
+		"skills": "layout, flexbox",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-layout-planning",
+		"invitationLink": "https://classroom.github.com/a/_Lstr2eT",
+		"skills": "layout, no-codding",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-interactions-animated-portfolio",
+		"invitationLink": "https://classroom.github.com/a/VtoEaDtX",
+		"skills": "interactions, animations",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB_interaction_animations_processing_files",
+		"invitationLink": "https://classroom.github.com/a/jEF7AHUD",
+		"skills": "interactions, animations",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB_interaction_animations",
+		"invitationLink": "https://classroom.github.com/a/8hIN5cdn",
+		"skills": "interactions, animations",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-interactions-lighting",
+		"invitationLink": "https://classroom.github.com/a/-5Tf1HZY",
+		"skills": "interactions, animations",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-interaction-animations",
+		"invitationLink": "https://classroom.github.com/a/BLkFZPfn",
+		"skills": "interactions, animations",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-interactions-site-menu",
+		"invitationLink": "https://classroom.github.com/a/0nlmSlmg",
+		"skills": "interactions, animations, transitions",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-Interactions-Caption-This",
+		"invitationLink": "https://classroom.github.com/a/FwPnB78L",
+		"skills": "interactions, possition, overflow, transition",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-interactions-neumorphic-buttons",
+		"invitationLink": "https://classroom.github.com/a/an6b16q0",
+		"skills": "interactions, neumorphic",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-interactions-secret-unfolds",
+		"invitationLink": "https://classroom.github.com/a/oudLy_89",
+		"skills": "interactions, animation, :hover",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB_framework_bootstrap_benny-s-burgers",
+		"invitationLink": "https://classroom.github.com/a/kejp2vO0",
+		"skills": "frameworks",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-framework-sassy-speaker-shop",
+		"invitationLink": "https://classroom.github.com/a/Q8S47AQv",
+		"skills": "frameworks",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-framework-variables",
+		"invitationLink": "https://classroom.github.com/a/OvN50Cf0",
+		"skills": "frameworks",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-frameworks-responsive-bootstrap-webpage",
+		"invitationLink": "https://classroom.github.com/a/vHWKNZhS",
+		"skills": "frameworks",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	},
+	{
+		"title": "UIB-framework-bootstrap",
+		"invitationLink": "https://classroom.github.com/a/QeVWaOy2",
+		"skills": "frameworks",
+		"body": "",
+		"solutionLink": "",
+		"topicIdCode": ""
+	}
+]
